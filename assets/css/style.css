@@ -1,0 +1,7 @@
+header, main{
+    text-align: center;
+}
+
+li{
+    list-style-position: inside;
+}
